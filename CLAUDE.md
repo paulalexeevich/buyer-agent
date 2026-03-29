@@ -6,9 +6,8 @@ This repo is part of the **ToDo** personal productivity system. All repositories
 
 | Repo | Type | Status | Description |
 |------|------|--------|-------------|
-| [paulalexeevich/todo-bot](https://github.com/paulalexeevich/todo-bot) | UI | active | Telegram interface |
-| [paulalexeevich/todo-dashboard](https://github.com/paulalexeevich/todo-dashboard) | UI | active | Next.js web interface |
-| [paulalexeevich/todo-api](https://github.com/paulalexeevich/todo-api) | Core | active | Task storage, classifier, orchestration, scheduler |
+| [paulalexeevich/todo-bot](https://github.com/paulalexeevich/todo-bot) | UI + Core | active | Telegram bot, Next.js dashboard, data-api — live system |
+| [paulalexeevich/todo-api](https://github.com/paulalexeevich/todo-api) | Core | planned | Future standalone core (not yet live) |
 | [paulalexeevich/discovery-agent](https://github.com/paulalexeevich/discovery-agent) | Agent | active | Standalone idea validation pipeline |
 | [paulalexeevich/buyer-agent](https://github.com/paulalexeevich/buyer-agent) | Agent | current repo | Standalone product search pipeline |
 
